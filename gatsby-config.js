@@ -8,8 +8,8 @@ module.exports = {
     description: `An introductory blog from me,will be sharing writings and experiences.Stay tuned!`,
     siteUrl: `https://manasamandalreddy.netlify.app/`,
     social: {
-      instagram : `manasamandalreddy`
-      //twitter: `kylemathews`
+      instagram : `https://www.instagram.com/manasamandalreddy`
+      
     }
   },
   plugins: [
